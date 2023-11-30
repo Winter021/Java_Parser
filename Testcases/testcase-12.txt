@@ -1,0 +1,26 @@
+# include <bits/stdc++.h>
+using namespace std;
+void main(){
+    int a;
+    int b = 4356;
+    float c = 3525.56;
+    double d = 35;
+    if(a+c<d/b){
+        if((a*d)&(c>=b)){
+            string r = "dasfd";/*dnlskng;g
+            a*/char asjf = 'sf';
+        }else{
+            if(){
+                while(a*b/c != d){
+                    long x = 21531531513;
+                    for(;;a++){
+                        b=10;
+                        asdfka = 9;
+                        long long int erw;
+                    }
+                }
+                for(;;){
+            }
+        }//sfdalfhasljfdhlnFSBD
+    }
+}

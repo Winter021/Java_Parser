@@ -1,0 +1,17 @@
+# include <bits/stdc++.h>
+using namespace std;
+
+void main(){
+    for(;;){
+    }
+    int b = 3;
+    float dc;
+    for(int a=5;a<b; a++){
+        long long x = 324;
+    }
+    for(a = 4; dc>5 + b<6; dc = 10){
+        int r;
+    }
+    for(int r =4;a==6;;){}
+    for(;dc==b;{}    
+}

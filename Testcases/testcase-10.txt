@@ -1,0 +1,18 @@
+# include <bits/stdc++.h>
+using namespace std;
+
+void main(){
+    if(a==b){}
+    while(){
+        int s;
+        string x = p;
+    }
+    double a; long int b;
+    while(a*b{}
+    for(int i;; i++){}
+    for(;a==b;){}
+    
+    for(int x = 0;;a=5){
+
+    }  
+}

@@ -1,0 +1,18 @@
+# include <bits/stdc++.h>
+using namespace std;
+# include <iostream>
+
+void main(){
+    
+    while(){
+
+    }
+    while(x--){
+        int sadf = 5;
+    }
+    int era = 8;
+    while(sadf < era){}
+    while){
+
+    }
+}

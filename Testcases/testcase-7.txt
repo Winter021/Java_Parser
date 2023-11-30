@@ -1,0 +1,19 @@
+# include <bits/stdc++.h>
+using namespace std;
+# include <iostream>
+
+void main(){
+    if(a == b){    }
+    int x = 5;
+    float r = 2.5;
+    if(x >= r){
+        string asdblsiaf;
+    }else{ vs = 10; }
+    if(){
+        saf = hsoafh;
+    }else{
+    }
+    if({    
+        
+    }
+}

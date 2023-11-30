@@ -1,0 +1,14 @@
+# include <bits/stdc++.h>
+using namespace std;
+# include <iostream>
+
+void main(){
+    int a = 5;
+    Sting x = "asdafdsl";
+    string ss = 5;
+    float a = "dagjapsajf";
+    double r;
+    char =;
+    ;;;
+    char afs = 'ad';
+}

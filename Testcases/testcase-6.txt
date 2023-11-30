@@ -1,0 +1,27 @@
+# include <bits/stdc++.h>
+using namespace std;
+# include <iostream>
+
+void main(){
+    int a = 5;
+    string x = "asdafdsl";
+    a = b; char r;
+    int x = 1;
+    x = 10;
+    asd = c;
+    ;;;
+    r = 'a';
+}# include <bits/stdc++.h>
+using namespace std;
+# include <iostream>
+
+void main(){
+    int a = 5;
+    string x = "asdafdsl";
+    a = b; char r;
+    int x = 1;
+    x = 10;
+    asd = c;
+    ;;;
+    r = 'a';
+}

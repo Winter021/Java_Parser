@@ -1,0 +1,29 @@
+# include <bits/stdc++.h>
+using namespace std;
+void main(){
+    w+=10;
+    string b;;
+    string a = b;
+    float saf = 5.432;
+    hj++; 
+    char s sdfajh =7;
+    if(){
+        string as = 1;
+        int a = 5; //frsiasjf
+        float a = 6.2; 
+        if(as == b){
+            as = 10+5+-6;/*sadnfnlska
+            sadgnasgkln;sd
+            hkvk*/a=8;
+        }
+    }else{        
+        long long x = 1;/*sdagahsdoihgasd*/
+        ;;asf=4;
+        char ss = 'w';
+    }
+    while(a<b){
+        int a = 10;d = 10;
+        char c;
+        for (a = 0;;){}
+    }
+}
